@@ -17,7 +17,7 @@ public class WristTracking : MonoBehaviour
     void Start()
     {
         sampleObject = Instantiate(sphereMarker,this.transform);
-        sampleObject.transform.Rotate(90,90,0);
+        //sampleObject.transform.Rotate(90,90,0);
         
     }
 
@@ -30,9 +30,10 @@ public class WristTracking : MonoBehaviour
             sampleObject.GetComponent<Renderer>().enabled = true;
             sampleObject.transform.position = pose.Position;
 
-            //Quaternion handRotation = new Quaternion(pose.Rotation[0]+10,pose.Rotation[1]+4,pose.Rotation[2]+1,pose.Rotation[3]);
-            sampleObject.transform.rotation = new  Quaternion(pose.Rotation[0],pose.Rotation[1],pose.Rotation[2],pose.Rotation[3]);
-            //sampleObject.transform.Rotate(90,90,0);
+            var rotation = Quaternion.Euler(90,90,0);
+           
+            sampleObject.transform.rotation = pose.Rotation * rotation;
+            
             
 
         }else
