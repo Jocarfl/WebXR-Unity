@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MenuAR-MRTK.unity
+    path: Assets/WebXR-Pruebas/Scenes/MenuAR-MRTK.unity
     guid: 97badc5113d4a0147a84eec9d43129ae
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e3602355984e7c4489db2150bd122496,
