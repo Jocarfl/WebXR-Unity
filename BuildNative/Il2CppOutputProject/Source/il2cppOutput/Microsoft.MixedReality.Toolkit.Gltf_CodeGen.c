@@ -1,0 +1,564 @@
+﻿#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+IL2CPP_EXTERN_C_BEGIN
+IL2CPP_EXTERN_C_END
+
+
+
+
+// 0x00000001 System.Threading.Tasks.Task`1<UnityEngine.GameObject> Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf::ConstructAsync(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject)
+extern void ConstructGltf_ConstructAsync_mEBBB2DA46571C22BB8AA27CA44A75778A43B3232 (void);
+// 0x00000002 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf::ConstructBufferView(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject,Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfBufferView)
+extern void ConstructGltf_ConstructBufferView_m8610CC9EE074145B4F09043236F1F091B7B9534D (void);
+// 0x00000003 System.Threading.Tasks.Task Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf::ConstructTextureAsync(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject,Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfTexture)
+extern void ConstructGltf_ConstructTextureAsync_m2BCF89936D756BCA2BFA89B53C7BB4C94B445C88 (void);
+// 0x00000004 System.Threading.Tasks.Task Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf::ConstructMaterialAsync(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject,Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMaterial,System.Int32)
+extern void ConstructGltf_ConstructMaterialAsync_m022ABE8C9ACA61C39FE2D2F6D94FDF6369FA45B5 (void);
+// 0x00000005 System.Threading.Tasks.Task`1<UnityEngine.Material> Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf::CreateMRTKShaderMaterial(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject,Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMaterial,System.Int32)
+extern void ConstructGltf_CreateMRTKShaderMaterial_m6C4EF6FD1C57B5D21682913EE8E7F2606E1F4E2A (void);
+// 0x00000006 System.Threading.Tasks.Task`1<UnityEngine.Material> Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf::CreateStandardShaderMaterial(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject,Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMaterial,System.Int32)
+extern void ConstructGltf_CreateStandardShaderMaterial_m15E2EC7AFFFCE4CADA478648F0C3BB2A793F1C36 (void);
+// 0x00000007 System.Threading.Tasks.Task Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf::ConstructSceneAsync(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject,Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfScene,UnityEngine.GameObject)
+extern void ConstructGltf_ConstructSceneAsync_m87CA9BD18A25F7F8522AFF7A2412BACF6107A75B (void);
+// 0x00000008 System.Threading.Tasks.Task Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf::ConstructNodeAsync(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject,Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfNode,System.Int32,UnityEngine.Transform)
+extern void ConstructGltf_ConstructNodeAsync_m1D9C1A7CDE27283DEF9C6BAAE8A85BCFDC864E15 (void);
+// 0x00000009 System.Threading.Tasks.Task Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf::ConstructMeshAsync(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject,UnityEngine.GameObject,System.Int32)
+extern void ConstructGltf_ConstructMeshAsync_m80EE72A32E7B7B316A0218A25E9087AB0814EA60 (void);
+// 0x0000000A System.Threading.Tasks.Task`1<UnityEngine.Mesh> Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf::ConstructMeshPrimitiveAsync(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject,Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitive)
+extern void ConstructGltf_ConstructMeshPrimitiveAsync_m8D0E4D1EE81BEA57D7D84A7AEE79F8D6B6622017 (void);
+// 0x0000000B UnityEngine.BoneWeight[] Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf::CreateBoneWeightArray(UnityEngine.Vector4[],UnityEngine.Vector4[],System.Int32)
+extern void ConstructGltf_CreateBoneWeightArray_m30112BF3C11EB1CF019088A8A24CCBB6DF4FF75D (void);
+// 0x0000000C System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf::NormalizeBoneWeightArray(UnityEngine.Vector4[])
+extern void ConstructGltf_NormalizeBoneWeightArray_m95EF72544CD7DAFE4DAFC9162FF63CB930E8BF98 (void);
+// 0x0000000D System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf::.cctor()
+extern void ConstructGltf__cctor_m7A32D0BABF0F8401DE4B798802A8F411FF2AFB2E (void);
+// 0x0000000E System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<ConstructAsync>d__19::MoveNext()
+extern void U3CConstructAsyncU3Ed__19_MoveNext_m844DBEA07B9E48B9D78FAE0CE11DAAD22AA3E7C7 (void);
+// 0x0000000F System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<ConstructAsync>d__19::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CConstructAsyncU3Ed__19_SetStateMachine_m43CA3DC120DA3C8A7DDD8DB7E1A684FE5954F52D (void);
+// 0x00000010 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<ConstructTextureAsync>d__21::MoveNext()
+extern void U3CConstructTextureAsyncU3Ed__21_MoveNext_m0B6F94D3124B410E1E61D94DEC7C851956FDBA89 (void);
+// 0x00000011 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<ConstructTextureAsync>d__21::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CConstructTextureAsyncU3Ed__21_SetStateMachine_m8AECFC95C348EB1C2734F564F56D14BFCD59F669 (void);
+// 0x00000012 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<ConstructMaterialAsync>d__22::MoveNext()
+extern void U3CConstructMaterialAsyncU3Ed__22_MoveNext_m043DA96FFBC501A97E77282C6764D2E1B504DB30 (void);
+// 0x00000013 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<ConstructMaterialAsync>d__22::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CConstructMaterialAsyncU3Ed__22_SetStateMachine_mDF6276457915788E5577D435D52540EF8CD574FE (void);
+// 0x00000014 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<CreateMRTKShaderMaterial>d__23::MoveNext()
+extern void U3CCreateMRTKShaderMaterialU3Ed__23_MoveNext_m353D479CDE3D9C14878F57C72A9B0203A4CBA3B9 (void);
+// 0x00000015 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<CreateMRTKShaderMaterial>d__23::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CCreateMRTKShaderMaterialU3Ed__23_SetStateMachine_mBF9A60059379023D3693DA5FE8BED624A0AA5AF6 (void);
+// 0x00000016 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<CreateStandardShaderMaterial>d__24::MoveNext()
+extern void U3CCreateStandardShaderMaterialU3Ed__24_MoveNext_mAD2D55CDAC5D9D2AC3A9CE70E4B487CCC5287382 (void);
+// 0x00000017 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<CreateStandardShaderMaterial>d__24::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CCreateStandardShaderMaterialU3Ed__24_SetStateMachine_m1A7B4DAE6680DD3C319D3F767F2F6C0E25CFB02B (void);
+// 0x00000018 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<ConstructSceneAsync>d__25::MoveNext()
+extern void U3CConstructSceneAsyncU3Ed__25_MoveNext_mF18C77D010AB1709FCE9844A9429EA26FCD205A4 (void);
+// 0x00000019 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<ConstructSceneAsync>d__25::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CConstructSceneAsyncU3Ed__25_SetStateMachine_mB9DAA61932DC20D771087C2EEA936839E624B2D3 (void);
+// 0x0000001A System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<ConstructNodeAsync>d__26::MoveNext()
+extern void U3CConstructNodeAsyncU3Ed__26_MoveNext_mDCE6D229A429057E50C77B947D2DC8267118188E (void);
+// 0x0000001B System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<ConstructNodeAsync>d__26::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CConstructNodeAsyncU3Ed__26_SetStateMachine_mE275469EB46C60307E6D89FAD45BD1B41513F1AA (void);
+// 0x0000001C System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<ConstructMeshAsync>d__27::MoveNext()
+extern void U3CConstructMeshAsyncU3Ed__27_MoveNext_m8A2B4C01D07F7E579EDC53C6ACEEA324D773BDB1 (void);
+// 0x0000001D System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<ConstructMeshAsync>d__27::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CConstructMeshAsyncU3Ed__27_SetStateMachine_m8F00B1043961F8E5D927544873D2A40569B3657C (void);
+// 0x0000001E System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<ConstructMeshPrimitiveAsync>d__28::MoveNext()
+extern void U3CConstructMeshPrimitiveAsyncU3Ed__28_MoveNext_mBC2161F47DF60F99655D4CD5EBCCC7C70EBBCAE7 (void);
+// 0x0000001F System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.ConstructGltf/<ConstructMeshPrimitiveAsync>d__28::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CConstructMeshPrimitiveAsyncU3Ed__28_SetStateMachine_m8D648FCB94C1E12CAF1914C058B9ECAB2A85E6DF (void);
+// 0x00000020 UnityEngine.Matrix4x4 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfConversions::GetTrsProperties(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfNode,UnityEngine.Vector3&,UnityEngine.Quaternion&,UnityEngine.Vector3&)
+extern void GltfConversions_GetTrsProperties_m688E6452A809B79CA827FAF3692C69537E40DC46 (void);
+// 0x00000021 UnityEngine.Color Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfConversions::GetColorValue(System.Single[])
+extern void GltfConversions_GetColorValue_mF283825A9DA38E1FAE708BFA0CDCDE928714330C (void);
+// 0x00000022 UnityEngine.Vector3 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfConversions::GetVector3Value(System.Single[],System.Boolean)
+extern void GltfConversions_GetVector3Value_mEBCDFE0CFCF08ABC700C5E19B8A44CC9D5C6060F (void);
+// 0x00000023 UnityEngine.Quaternion Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfConversions::GetQuaternionValue(System.Single[],System.Boolean)
+extern void GltfConversions_GetQuaternionValue_m36ED09128C33FF34DCBEB2C9D2F1059918007046 (void);
+// 0x00000024 UnityEngine.Matrix4x4 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfConversions::GetMatrix4X4Value(System.Double[])
+extern void GltfConversions_GetMatrix4X4Value_m2690B67D2E82466FCD1AD13DBA8099162472D6AE (void);
+// 0x00000025 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfConversions::GetTrsProperties(UnityEngine.Matrix4x4,UnityEngine.Vector3&,UnityEngine.Quaternion&,UnityEngine.Vector3&)
+extern void GltfConversions_GetTrsProperties_m7B791B2823A362360C7FA37FEB400CADAF755DFB (void);
+// 0x00000026 System.Int32[] Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfConversions::GetIntArray(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfAccessor,System.Boolean)
+extern void GltfConversions_GetIntArray_mDF1C6458A83016B5ED9EB27A759118ED12E262D0 (void);
+// 0x00000027 UnityEngine.Vector2[] Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfConversions::GetVector2Array(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfAccessor,System.Boolean)
+extern void GltfConversions_GetVector2Array_m2D00B3745AED70A3BF2609F22A847A752D0C92AA (void);
+// 0x00000028 UnityEngine.Vector3[] Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfConversions::GetVector3Array(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfAccessor,System.Boolean)
+extern void GltfConversions_GetVector3Array_m0B1F3B1D2748BC64BD130C4E27136715CA9F1E00 (void);
+// 0x00000029 UnityEngine.Vector4[] Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfConversions::GetVector4Array(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfAccessor,System.Boolean)
+extern void GltfConversions_GetVector4Array_m680AD1F1978F6CB04588FC5ABF12DC125850575F (void);
+// 0x0000002A UnityEngine.Color[] Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfConversions::GetColorArray(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfAccessor)
+extern void GltfConversions_GetColorArray_m4C91B804CBBF669435BEC1B0FDD12E535D63FE34 (void);
+// 0x0000002B System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfConversions::GetTypeDetails(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfComponentType,System.Int32&,System.Single&)
+extern void GltfConversions_GetTypeDetails_mA65A73C79BFA7EE2624463105ACB2074B3F5AC00 (void);
+// 0x0000002C System.Int32 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfConversions::GetDiscreteElement(System.Byte[],System.Int32,Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfComponentType)
+extern void GltfConversions_GetDiscreteElement_m2E49E86D93E7993F2944CF2360C51A55029D2DA8 (void);
+// 0x0000002D System.UInt32 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfConversions::GetDiscreteUnsignedElement(System.Byte[],System.Int32,Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfComponentType)
+extern void GltfConversions_GetDiscreteUnsignedElement_m583EA06DEF6AEC19F4976B29B4F849B001BD1A0A (void);
+// 0x0000002E System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfConversions::.cctor()
+extern void GltfConversions__cctor_mD41D8EDF463730BB44679F3DECC7BE558D01CFCC (void);
+// 0x0000002F Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfUtility::GetGltfObjectFromJson(System.String)
+extern void GltfUtility_GetGltfObjectFromJson_m968105EBD7998BC330C8A9838E83C43A9DEE731E (void);
+// 0x00000030 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfUtility::GetGltfObjectFromGlb(System.Byte[])
+extern void GltfUtility_GetGltfObjectFromGlb_m195584D35290AD57614E25CE5EA56691364E1C91 (void);
+// 0x00000031 System.Collections.Generic.List`1<System.String> Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfUtility::GetGltfMeshPrimitiveAttributes(System.String)
+extern void GltfUtility_GetGltfMeshPrimitiveAttributes_m22104A0BDF59B22E09FDBB01093673F50CC26D55 (void);
+// 0x00000032 System.Collections.Generic.List`1<System.String> Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfUtility::GetGltfMeshPrimitiveAttributes(System.String,System.Text.RegularExpressions.Regex)
+extern void GltfUtility_GetGltfMeshPrimitiveAttributes_m5649ABFB2875E0C727EC5F23A2AE35B5ED11ADCC (void);
+// 0x00000033 System.Collections.Generic.Dictionary`2<System.String,System.Int32> Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfUtility::StringIntDictionaryFromJson(System.String)
+extern void GltfUtility_StringIntDictionaryFromJson_mE22C829648329C256D0160FA41C4189EF31524B2 (void);
+// 0x00000034 System.String Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfUtility::JsonDictionaryToArray(System.String)
+extern void GltfUtility_JsonDictionaryToArray_m35347B439C2F13A14595E25C12E209C091196D2E (void);
+// 0x00000035 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfUtility::.cctor()
+extern void GltfUtility__cctor_m8D4BA4F92E57CEE8C9A242542E4228EA5835D050 (void);
+// 0x00000036 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfUtility/StringKeyValue::.ctor()
+extern void StringKeyValue__ctor_m3028B3FD227CD47B6B3BCFEA35C41FD96D511876 (void);
+// 0x00000037 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Serialization.GltfUtility/StringIntKeyValueArray::.ctor()
+extern void StringIntKeyValueArray__ctor_mE50D796F7C2CADFA3C9FC107F8A50FE2DCEB31BD (void);
+// 0x00000038 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfComponentType Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfAccessor::get_ComponentType()
+extern void GltfAccessor_get_ComponentType_mA546D4969AA3C3F44973D5695B0F27F462FF8B8F (void);
+// 0x00000039 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfAccessor::set_ComponentType(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfComponentType)
+extern void GltfAccessor_set_ComponentType_mB98A2877F974079029EBC20B737519F0E5377300 (void);
+// 0x0000003A Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfBufferView Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfAccessor::get_BufferView()
+extern void GltfAccessor_get_BufferView_mEFF682324A8139D015980391946C72CFE5EC66B5 (void);
+// 0x0000003B System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfAccessor::set_BufferView(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfBufferView)
+extern void GltfAccessor_set_BufferView_mFAE55B6F7F319ECA0C62F6228D935F45CF2B8B03 (void);
+// 0x0000003C System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfAccessor::UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize()
+extern void GltfAccessor_UnityEngine_ISerializationCallbackReceiver_OnAfterDeserialize_m579A7A89705A0E6E9768B08C0D2DD64FE88A997B (void);
+// 0x0000003D System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfAccessor::UnityEngine.ISerializationCallbackReceiver.OnBeforeSerialize()
+extern void GltfAccessor_UnityEngine_ISerializationCallbackReceiver_OnBeforeSerialize_mA3CAB7BA4D1E16CFD495CDC7CCD368F1D2EBD217 (void);
+// 0x0000003E System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfAccessor::.ctor()
+extern void GltfAccessor__ctor_m9F68504B2672D139E4D998470EA5B62FD08BDF4F (void);
+// 0x0000003F System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfAssetInfo::.ctor()
+extern void GltfAssetInfo__ctor_mBCCDC63B38A6A1B0933B213EE1CFBE4DB06E45C2 (void);
+// 0x00000040 System.Byte[] Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfBuffer::get_BufferData()
+extern void GltfBuffer_get_BufferData_mA5F7E548D7FE505A6EAA879F85947F23E5A9378C (void);
+// 0x00000041 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfBuffer::set_BufferData(System.Byte[])
+extern void GltfBuffer_set_BufferData_mCDD901EB399A8933B566B6DE739B556B05940EF1 (void);
+// 0x00000042 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfBuffer::.ctor()
+extern void GltfBuffer__ctor_m564C1D657199F54B940A14E7320228B3601EBCE9 (void);
+// 0x00000043 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfBufferViewTarget Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfBufferView::get_Target()
+extern void GltfBufferView_get_Target_m2DBBB1DA46B980AFA4216FAE6620261BF110858F (void);
+// 0x00000044 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfBufferView::set_Target(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfBufferViewTarget)
+extern void GltfBufferView_set_Target_m7ACDB34A3601142DEECE291941EEE09BB6F2816A (void);
+// 0x00000045 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfBuffer Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfBufferView::get_Buffer()
+extern void GltfBufferView_get_Buffer_m064ED2C9CC44DA15968C5603CD30963773987494 (void);
+// 0x00000046 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfBufferView::set_Buffer(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfBuffer)
+extern void GltfBufferView_set_Buffer_m80D9C2958911A1052AF14D04DF8CEC8B21C0DFED (void);
+// 0x00000047 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfBufferView::UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize()
+extern void GltfBufferView_UnityEngine_ISerializationCallbackReceiver_OnAfterDeserialize_m5AE874FA38B6E148C038F8C9ED1ECD0AA49CDB81 (void);
+// 0x00000048 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfBufferView::UnityEngine.ISerializationCallbackReceiver.OnBeforeSerialize()
+extern void GltfBufferView_UnityEngine_ISerializationCallbackReceiver_OnBeforeSerialize_m0D125FEDBF9CF6E2BC75391BE2A40D31F4F4C89E (void);
+// 0x00000049 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfBufferView::.ctor()
+extern void GltfBufferView__ctor_mB4DF25DAD66476D6DD59E148239733080B8A5C45 (void);
+// 0x0000004A System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfChildOfRootProperty::.ctor()
+extern void GltfChildOfRootProperty__ctor_m0F6257F351DAB56D02760C9A5145F020D216782C (void);
+// 0x0000004B UnityEngine.Texture2D Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfImage::get_Texture()
+extern void GltfImage_get_Texture_m0CD522A160F1009A6C9B9016611B003DEC3E8645 (void);
+// 0x0000004C System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfImage::set_Texture(UnityEngine.Texture2D)
+extern void GltfImage_set_Texture_mF16134F165A74B3E88757EEA57575C2594553A60 (void);
+// 0x0000004D System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfImage::.ctor()
+extern void GltfImage__ctor_m9A7033F36A418B8C36F3A01FBE0D10C735A4B613 (void);
+// 0x0000004E UnityEngine.Material Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMaterial::get_Material()
+extern void GltfMaterial_get_Material_m65BA1D482DBCFE56C79C6CC976BC39B688946F05 (void);
+// 0x0000004F System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMaterial::set_Material(UnityEngine.Material)
+extern void GltfMaterial_set_Material_mD8D16D143AFB7979395F9580F2CED7483C705B7E (void);
+// 0x00000050 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMaterial::.ctor()
+extern void GltfMaterial__ctor_mB6C7EB987F46CA8C70652459D8A4384B9EA371BE (void);
+// 0x00000051 UnityEngine.Mesh Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMesh::get_Mesh()
+extern void GltfMesh_get_Mesh_m2CD0B898CCA1F16BD39937031618766BA9CEB303 (void);
+// 0x00000052 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMesh::set_Mesh(UnityEngine.Mesh)
+extern void GltfMesh_set_Mesh_mF774F6B2B17DDFB87A8BB30AB5B2D5D3D07721E5 (void);
+// 0x00000053 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMesh::.ctor()
+extern void GltfMesh__ctor_m9E407DAB9720D491A216CEF76D6CE8F0D59DA853 (void);
+// 0x00000054 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfDrawMode Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitive::get_Mode()
+extern void GltfMeshPrimitive_get_Mode_m0E46D9A28E6F2B3E40E87BAFEAB572F1A458C77F (void);
+// 0x00000055 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitive::set_Mode(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfDrawMode)
+extern void GltfMeshPrimitive_set_Mode_mA085DFF3B0ABDB148ACD816D82EC57132B2A864A (void);
+// 0x00000056 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitiveAttributes Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitive::get_Attributes()
+extern void GltfMeshPrimitive_get_Attributes_mD8245BE2CCB68EC88EFFDD3832233302294C153D (void);
+// 0x00000057 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitive::set_Attributes(Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitiveAttributes)
+extern void GltfMeshPrimitive_set_Attributes_m7D071DFE21EAEADB0B5F5E0D31EEAFF7F583E70C (void);
+// 0x00000058 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitive::set_SubMesh(UnityEngine.Mesh)
+extern void GltfMeshPrimitive_set_SubMesh_m6387C0D94C37F6CE7D2DD20DBB7AE1C1F9DBC533 (void);
+// 0x00000059 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitive::UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize()
+extern void GltfMeshPrimitive_UnityEngine_ISerializationCallbackReceiver_OnAfterDeserialize_mE460B581E408F05A078BCF5F51B5DC8EFE635661 (void);
+// 0x0000005A System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitive::UnityEngine.ISerializationCallbackReceiver.OnBeforeSerialize()
+extern void GltfMeshPrimitive_UnityEngine_ISerializationCallbackReceiver_OnBeforeSerialize_m6F3A200095211747897B398DF6375FA66F1AF71A (void);
+// 0x0000005B System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitive::.ctor()
+extern void GltfMeshPrimitive__ctor_m279FF9BD7433C3C939289872EA8B6E7AF042BE78 (void);
+// 0x0000005C System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitiveAttributes::.ctor(System.Collections.Generic.IDictionary`2<System.String,System.Int32>)
+extern void GltfMeshPrimitiveAttributes__ctor_m05ABEFDB51D20E55E1844184C3473105E3937EE6 (void);
+// 0x0000005D System.Int32 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitiveAttributes::TryGetDefault(System.String,System.Int32)
+extern void GltfMeshPrimitiveAttributes_TryGetDefault_m8D5A40FE9ED8F312E9214CAB8D17CAE76FC5004B (void);
+// 0x0000005E System.Int32 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitiveAttributes::get_POSITION()
+extern void GltfMeshPrimitiveAttributes_get_POSITION_mF1A3E40130006714C85056FADB71CA1A61F293D2 (void);
+// 0x0000005F System.Int32 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitiveAttributes::get_NORMAL()
+extern void GltfMeshPrimitiveAttributes_get_NORMAL_mC91AD44948D52168675481EEA0FD2C330C39092F (void);
+// 0x00000060 System.Int32 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitiveAttributes::get_TEXCOORD_0()
+extern void GltfMeshPrimitiveAttributes_get_TEXCOORD_0_mD4908E9C841A27C9B8B92C9B8F494E50C3611144 (void);
+// 0x00000061 System.Int32 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitiveAttributes::get_TEXCOORD_1()
+extern void GltfMeshPrimitiveAttributes_get_TEXCOORD_1_mABA98CC56099139FD92B30BA217C115B4B65C0DE (void);
+// 0x00000062 System.Int32 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitiveAttributes::get_TEXCOORD_2()
+extern void GltfMeshPrimitiveAttributes_get_TEXCOORD_2_m08A6E63D7549528CFBC2E357DEF6CA01595D5CD9 (void);
+// 0x00000063 System.Int32 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitiveAttributes::get_TEXCOORD_3()
+extern void GltfMeshPrimitiveAttributes_get_TEXCOORD_3_m320D2A5DEA0463B41D77868122CCEAFA7BD0EB24 (void);
+// 0x00000064 System.Int32 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitiveAttributes::get_COLOR_0()
+extern void GltfMeshPrimitiveAttributes_get_COLOR_0_mD21E494C5F1CC1DD05A62D3E97728513E9A8AADE (void);
+// 0x00000065 System.Int32 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitiveAttributes::get_TANGENT()
+extern void GltfMeshPrimitiveAttributes_get_TANGENT_mCA459160E60DB61889911229AA59FDA27D7E95DB (void);
+// 0x00000066 System.Int32 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitiveAttributes::get_WEIGHTS_0()
+extern void GltfMeshPrimitiveAttributes_get_WEIGHTS_0_m8117FC761C014B848CC0784D3FF24A7843CE018B (void);
+// 0x00000067 System.Int32 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfMeshPrimitiveAttributes::get_JOINTS_0()
+extern void GltfMeshPrimitiveAttributes_get_JOINTS_0_m0D4CA721DC4ECB28D2665BFCAE96F02D039C3731 (void);
+// 0x00000068 UnityEngine.Matrix4x4 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfNode::get_Matrix()
+extern void GltfNode_get_Matrix_mC75FD1931A8267725CF4FD3D9769F3117D732452 (void);
+// 0x00000069 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfNode::set_Matrix(UnityEngine.Matrix4x4)
+extern void GltfNode_set_Matrix_m929B5FD1405390E99EF33CD17D2CD6515752067A (void);
+// 0x0000006A System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfNode::.ctor()
+extern void GltfNode__ctor_m1B537E17D399D33D8EE036E07B89AE3ABAC60FD6 (void);
+// 0x0000006B System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfNormalTextureInfo::.ctor()
+extern void GltfNormalTextureInfo__ctor_mDDFA22359505A0A702539E14A8CBAEEFD3B0FBF8 (void);
+// 0x0000006C System.String Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject::get_Name()
+extern void GltfObject_get_Name_mF510B349A2F78794ADFB9B918F9F530D7849751C (void);
+// 0x0000006D System.String Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject::get_Uri()
+extern void GltfObject_get_Uri_mD7957410CAD0F17A8609B4BA5200E6D79FA8F5E8 (void);
+// 0x0000006E System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject::set_GameObjectReference(UnityEngine.GameObject)
+extern void GltfObject_set_GameObjectReference_m47167B7FF0C8F883820B840146FCFA97FD15E0A4 (void);
+// 0x0000006F System.Boolean Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject::get_UseBackgroundThread()
+extern void GltfObject_get_UseBackgroundThread_m367D78FE88718B6AE5753EEB2339C20A782C6080 (void);
+// 0x00000070 Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfAccessor Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject::GetAccessor(System.Int32)
+extern void GltfObject_GetAccessor_mA366BE45D8961191580107050AF5E8B1247F94D6 (void);
+// 0x00000071 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject::.ctor()
+extern void GltfObject__ctor_mB7A25583018A8F7A85DC68589852FC0B6A9047F7 (void);
+// 0x00000072 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfOcclusionTextureInfo::.ctor()
+extern void GltfOcclusionTextureInfo__ctor_m5D5F2B3080B8EE867DCE42502182679A67022442 (void);
+// 0x00000073 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfPbrMetallicRoughness::.ctor()
+extern void GltfPbrMetallicRoughness__ctor_m1994E4DFD75381D8F98D50009D1EAC2E17ACE598 (void);
+// 0x00000074 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfProperty::.ctor()
+extern void GltfProperty__ctor_mAD3EA5283A59842B2E57584E822DA8BA2A4821F7 (void);
+// 0x00000075 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfScene::.ctor()
+extern void GltfScene__ctor_m8479457F3E7835B691B7455C428CEEA4C0E2BDE7 (void);
+// 0x00000076 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfTexture::set_Texture(UnityEngine.Texture2D)
+extern void GltfTexture_set_Texture_mDD2D6007ACA16C779CF89DFB8BB55D88FC981503 (void);
+// 0x00000077 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfTexture::.ctor()
+extern void GltfTexture__ctor_mCCE56D93D21B512CA580C948A621465E8D6B8826 (void);
+// 0x00000078 System.Void Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfTextureInfo::.ctor()
+extern void GltfTextureInfo__ctor_mE46EC32FEE72C2546BA63B6229F0E22B7208DA58 (void);
+static Il2CppMethodPointer s_methodPointers[120] = 
+{
+	ConstructGltf_ConstructAsync_mEBBB2DA46571C22BB8AA27CA44A75778A43B3232,
+	ConstructGltf_ConstructBufferView_m8610CC9EE074145B4F09043236F1F091B7B9534D,
+	ConstructGltf_ConstructTextureAsync_m2BCF89936D756BCA2BFA89B53C7BB4C94B445C88,
+	ConstructGltf_ConstructMaterialAsync_m022ABE8C9ACA61C39FE2D2F6D94FDF6369FA45B5,
+	ConstructGltf_CreateMRTKShaderMaterial_m6C4EF6FD1C57B5D21682913EE8E7F2606E1F4E2A,
+	ConstructGltf_CreateStandardShaderMaterial_m15E2EC7AFFFCE4CADA478648F0C3BB2A793F1C36,
+	ConstructGltf_ConstructSceneAsync_m87CA9BD18A25F7F8522AFF7A2412BACF6107A75B,
+	ConstructGltf_ConstructNodeAsync_m1D9C1A7CDE27283DEF9C6BAAE8A85BCFDC864E15,
+	ConstructGltf_ConstructMeshAsync_m80EE72A32E7B7B316A0218A25E9087AB0814EA60,
+	ConstructGltf_ConstructMeshPrimitiveAsync_m8D0E4D1EE81BEA57D7D84A7AEE79F8D6B6622017,
+	ConstructGltf_CreateBoneWeightArray_m30112BF3C11EB1CF019088A8A24CCBB6DF4FF75D,
+	ConstructGltf_NormalizeBoneWeightArray_m95EF72544CD7DAFE4DAFC9162FF63CB930E8BF98,
+	ConstructGltf__cctor_m7A32D0BABF0F8401DE4B798802A8F411FF2AFB2E,
+	U3CConstructAsyncU3Ed__19_MoveNext_m844DBEA07B9E48B9D78FAE0CE11DAAD22AA3E7C7,
+	U3CConstructAsyncU3Ed__19_SetStateMachine_m43CA3DC120DA3C8A7DDD8DB7E1A684FE5954F52D,
+	U3CConstructTextureAsyncU3Ed__21_MoveNext_m0B6F94D3124B410E1E61D94DEC7C851956FDBA89,
+	U3CConstructTextureAsyncU3Ed__21_SetStateMachine_m8AECFC95C348EB1C2734F564F56D14BFCD59F669,
+	U3CConstructMaterialAsyncU3Ed__22_MoveNext_m043DA96FFBC501A97E77282C6764D2E1B504DB30,
+	U3CConstructMaterialAsyncU3Ed__22_SetStateMachine_mDF6276457915788E5577D435D52540EF8CD574FE,
+	U3CCreateMRTKShaderMaterialU3Ed__23_MoveNext_m353D479CDE3D9C14878F57C72A9B0203A4CBA3B9,
+	U3CCreateMRTKShaderMaterialU3Ed__23_SetStateMachine_mBF9A60059379023D3693DA5FE8BED624A0AA5AF6,
+	U3CCreateStandardShaderMaterialU3Ed__24_MoveNext_mAD2D55CDAC5D9D2AC3A9CE70E4B487CCC5287382,
+	U3CCreateStandardShaderMaterialU3Ed__24_SetStateMachine_m1A7B4DAE6680DD3C319D3F767F2F6C0E25CFB02B,
+	U3CConstructSceneAsyncU3Ed__25_MoveNext_mF18C77D010AB1709FCE9844A9429EA26FCD205A4,
+	U3CConstructSceneAsyncU3Ed__25_SetStateMachine_mB9DAA61932DC20D771087C2EEA936839E624B2D3,
+	U3CConstructNodeAsyncU3Ed__26_MoveNext_mDCE6D229A429057E50C77B947D2DC8267118188E,
+	U3CConstructNodeAsyncU3Ed__26_SetStateMachine_mE275469EB46C60307E6D89FAD45BD1B41513F1AA,
+	U3CConstructMeshAsyncU3Ed__27_MoveNext_m8A2B4C01D07F7E579EDC53C6ACEEA324D773BDB1,
+	U3CConstructMeshAsyncU3Ed__27_SetStateMachine_m8F00B1043961F8E5D927544873D2A40569B3657C,
+	U3CConstructMeshPrimitiveAsyncU3Ed__28_MoveNext_mBC2161F47DF60F99655D4CD5EBCCC7C70EBBCAE7,
+	U3CConstructMeshPrimitiveAsyncU3Ed__28_SetStateMachine_m8D648FCB94C1E12CAF1914C058B9ECAB2A85E6DF,
+	GltfConversions_GetTrsProperties_m688E6452A809B79CA827FAF3692C69537E40DC46,
+	GltfConversions_GetColorValue_mF283825A9DA38E1FAE708BFA0CDCDE928714330C,
+	GltfConversions_GetVector3Value_mEBCDFE0CFCF08ABC700C5E19B8A44CC9D5C6060F,
+	GltfConversions_GetQuaternionValue_m36ED09128C33FF34DCBEB2C9D2F1059918007046,
+	GltfConversions_GetMatrix4X4Value_m2690B67D2E82466FCD1AD13DBA8099162472D6AE,
+	GltfConversions_GetTrsProperties_m7B791B2823A362360C7FA37FEB400CADAF755DFB,
+	GltfConversions_GetIntArray_mDF1C6458A83016B5ED9EB27A759118ED12E262D0,
+	GltfConversions_GetVector2Array_m2D00B3745AED70A3BF2609F22A847A752D0C92AA,
+	GltfConversions_GetVector3Array_m0B1F3B1D2748BC64BD130C4E27136715CA9F1E00,
+	GltfConversions_GetVector4Array_m680AD1F1978F6CB04588FC5ABF12DC125850575F,
+	GltfConversions_GetColorArray_m4C91B804CBBF669435BEC1B0FDD12E535D63FE34,
+	GltfConversions_GetTypeDetails_mA65A73C79BFA7EE2624463105ACB2074B3F5AC00,
+	GltfConversions_GetDiscreteElement_m2E49E86D93E7993F2944CF2360C51A55029D2DA8,
+	GltfConversions_GetDiscreteUnsignedElement_m583EA06DEF6AEC19F4976B29B4F849B001BD1A0A,
+	GltfConversions__cctor_mD41D8EDF463730BB44679F3DECC7BE558D01CFCC,
+	GltfUtility_GetGltfObjectFromJson_m968105EBD7998BC330C8A9838E83C43A9DEE731E,
+	GltfUtility_GetGltfObjectFromGlb_m195584D35290AD57614E25CE5EA56691364E1C91,
+	GltfUtility_GetGltfMeshPrimitiveAttributes_m22104A0BDF59B22E09FDBB01093673F50CC26D55,
+	GltfUtility_GetGltfMeshPrimitiveAttributes_m5649ABFB2875E0C727EC5F23A2AE35B5ED11ADCC,
+	GltfUtility_StringIntDictionaryFromJson_mE22C829648329C256D0160FA41C4189EF31524B2,
+	GltfUtility_JsonDictionaryToArray_m35347B439C2F13A14595E25C12E209C091196D2E,
+	GltfUtility__cctor_m8D4BA4F92E57CEE8C9A242542E4228EA5835D050,
+	StringKeyValue__ctor_m3028B3FD227CD47B6B3BCFEA35C41FD96D511876,
+	StringIntKeyValueArray__ctor_mE50D796F7C2CADFA3C9FC107F8A50FE2DCEB31BD,
+	GltfAccessor_get_ComponentType_mA546D4969AA3C3F44973D5695B0F27F462FF8B8F,
+	GltfAccessor_set_ComponentType_mB98A2877F974079029EBC20B737519F0E5377300,
+	GltfAccessor_get_BufferView_mEFF682324A8139D015980391946C72CFE5EC66B5,
+	GltfAccessor_set_BufferView_mFAE55B6F7F319ECA0C62F6228D935F45CF2B8B03,
+	GltfAccessor_UnityEngine_ISerializationCallbackReceiver_OnAfterDeserialize_m579A7A89705A0E6E9768B08C0D2DD64FE88A997B,
+	GltfAccessor_UnityEngine_ISerializationCallbackReceiver_OnBeforeSerialize_mA3CAB7BA4D1E16CFD495CDC7CCD368F1D2EBD217,
+	GltfAccessor__ctor_m9F68504B2672D139E4D998470EA5B62FD08BDF4F,
+	GltfAssetInfo__ctor_mBCCDC63B38A6A1B0933B213EE1CFBE4DB06E45C2,
+	GltfBuffer_get_BufferData_mA5F7E548D7FE505A6EAA879F85947F23E5A9378C,
+	GltfBuffer_set_BufferData_mCDD901EB399A8933B566B6DE739B556B05940EF1,
+	GltfBuffer__ctor_m564C1D657199F54B940A14E7320228B3601EBCE9,
+	GltfBufferView_get_Target_m2DBBB1DA46B980AFA4216FAE6620261BF110858F,
+	GltfBufferView_set_Target_m7ACDB34A3601142DEECE291941EEE09BB6F2816A,
+	GltfBufferView_get_Buffer_m064ED2C9CC44DA15968C5603CD30963773987494,
+	GltfBufferView_set_Buffer_m80D9C2958911A1052AF14D04DF8CEC8B21C0DFED,
+	GltfBufferView_UnityEngine_ISerializationCallbackReceiver_OnAfterDeserialize_m5AE874FA38B6E148C038F8C9ED1ECD0AA49CDB81,
+	GltfBufferView_UnityEngine_ISerializationCallbackReceiver_OnBeforeSerialize_m0D125FEDBF9CF6E2BC75391BE2A40D31F4F4C89E,
+	GltfBufferView__ctor_mB4DF25DAD66476D6DD59E148239733080B8A5C45,
+	GltfChildOfRootProperty__ctor_m0F6257F351DAB56D02760C9A5145F020D216782C,
+	GltfImage_get_Texture_m0CD522A160F1009A6C9B9016611B003DEC3E8645,
+	GltfImage_set_Texture_mF16134F165A74B3E88757EEA57575C2594553A60,
+	GltfImage__ctor_m9A7033F36A418B8C36F3A01FBE0D10C735A4B613,
+	GltfMaterial_get_Material_m65BA1D482DBCFE56C79C6CC976BC39B688946F05,
+	GltfMaterial_set_Material_mD8D16D143AFB7979395F9580F2CED7483C705B7E,
+	GltfMaterial__ctor_mB6C7EB987F46CA8C70652459D8A4384B9EA371BE,
+	GltfMesh_get_Mesh_m2CD0B898CCA1F16BD39937031618766BA9CEB303,
+	GltfMesh_set_Mesh_mF774F6B2B17DDFB87A8BB30AB5B2D5D3D07721E5,
+	GltfMesh__ctor_m9E407DAB9720D491A216CEF76D6CE8F0D59DA853,
+	GltfMeshPrimitive_get_Mode_m0E46D9A28E6F2B3E40E87BAFEAB572F1A458C77F,
+	GltfMeshPrimitive_set_Mode_mA085DFF3B0ABDB148ACD816D82EC57132B2A864A,
+	GltfMeshPrimitive_get_Attributes_mD8245BE2CCB68EC88EFFDD3832233302294C153D,
+	GltfMeshPrimitive_set_Attributes_m7D071DFE21EAEADB0B5F5E0D31EEAFF7F583E70C,
+	GltfMeshPrimitive_set_SubMesh_m6387C0D94C37F6CE7D2DD20DBB7AE1C1F9DBC533,
+	GltfMeshPrimitive_UnityEngine_ISerializationCallbackReceiver_OnAfterDeserialize_mE460B581E408F05A078BCF5F51B5DC8EFE635661,
+	GltfMeshPrimitive_UnityEngine_ISerializationCallbackReceiver_OnBeforeSerialize_m6F3A200095211747897B398DF6375FA66F1AF71A,
+	GltfMeshPrimitive__ctor_m279FF9BD7433C3C939289872EA8B6E7AF042BE78,
+	GltfMeshPrimitiveAttributes__ctor_m05ABEFDB51D20E55E1844184C3473105E3937EE6,
+	GltfMeshPrimitiveAttributes_TryGetDefault_m8D5A40FE9ED8F312E9214CAB8D17CAE76FC5004B,
+	GltfMeshPrimitiveAttributes_get_POSITION_mF1A3E40130006714C85056FADB71CA1A61F293D2,
+	GltfMeshPrimitiveAttributes_get_NORMAL_mC91AD44948D52168675481EEA0FD2C330C39092F,
+	GltfMeshPrimitiveAttributes_get_TEXCOORD_0_mD4908E9C841A27C9B8B92C9B8F494E50C3611144,
+	GltfMeshPrimitiveAttributes_get_TEXCOORD_1_mABA98CC56099139FD92B30BA217C115B4B65C0DE,
+	GltfMeshPrimitiveAttributes_get_TEXCOORD_2_m08A6E63D7549528CFBC2E357DEF6CA01595D5CD9,
+	GltfMeshPrimitiveAttributes_get_TEXCOORD_3_m320D2A5DEA0463B41D77868122CCEAFA7BD0EB24,
+	GltfMeshPrimitiveAttributes_get_COLOR_0_mD21E494C5F1CC1DD05A62D3E97728513E9A8AADE,
+	GltfMeshPrimitiveAttributes_get_TANGENT_mCA459160E60DB61889911229AA59FDA27D7E95DB,
+	GltfMeshPrimitiveAttributes_get_WEIGHTS_0_m8117FC761C014B848CC0784D3FF24A7843CE018B,
+	GltfMeshPrimitiveAttributes_get_JOINTS_0_m0D4CA721DC4ECB28D2665BFCAE96F02D039C3731,
+	GltfNode_get_Matrix_mC75FD1931A8267725CF4FD3D9769F3117D732452,
+	GltfNode_set_Matrix_m929B5FD1405390E99EF33CD17D2CD6515752067A,
+	GltfNode__ctor_m1B537E17D399D33D8EE036E07B89AE3ABAC60FD6,
+	GltfNormalTextureInfo__ctor_mDDFA22359505A0A702539E14A8CBAEEFD3B0FBF8,
+	GltfObject_get_Name_mF510B349A2F78794ADFB9B918F9F530D7849751C,
+	GltfObject_get_Uri_mD7957410CAD0F17A8609B4BA5200E6D79FA8F5E8,
+	GltfObject_set_GameObjectReference_m47167B7FF0C8F883820B840146FCFA97FD15E0A4,
+	GltfObject_get_UseBackgroundThread_m367D78FE88718B6AE5753EEB2339C20A782C6080,
+	GltfObject_GetAccessor_mA366BE45D8961191580107050AF5E8B1247F94D6,
+	GltfObject__ctor_mB7A25583018A8F7A85DC68589852FC0B6A9047F7,
+	GltfOcclusionTextureInfo__ctor_m5D5F2B3080B8EE867DCE42502182679A67022442,
+	GltfPbrMetallicRoughness__ctor_m1994E4DFD75381D8F98D50009D1EAC2E17ACE598,
+	GltfProperty__ctor_mAD3EA5283A59842B2E57584E822DA8BA2A4821F7,
+	GltfScene__ctor_m8479457F3E7835B691B7455C428CEEA4C0E2BDE7,
+	GltfTexture_set_Texture_mDD2D6007ACA16C779CF89DFB8BB55D88FC981503,
+	GltfTexture__ctor_mCCE56D93D21B512CA580C948A621465E8D6B8826,
+	GltfTextureInfo__ctor_mE46EC32FEE72C2546BA63B6229F0E22B7208DA58,
+};
+extern void U3CConstructAsyncU3Ed__19_MoveNext_m844DBEA07B9E48B9D78FAE0CE11DAAD22AA3E7C7_AdjustorThunk (void);
+extern void U3CConstructAsyncU3Ed__19_SetStateMachine_m43CA3DC120DA3C8A7DDD8DB7E1A684FE5954F52D_AdjustorThunk (void);
+extern void U3CConstructTextureAsyncU3Ed__21_MoveNext_m0B6F94D3124B410E1E61D94DEC7C851956FDBA89_AdjustorThunk (void);
+extern void U3CConstructTextureAsyncU3Ed__21_SetStateMachine_m8AECFC95C348EB1C2734F564F56D14BFCD59F669_AdjustorThunk (void);
+extern void U3CConstructMaterialAsyncU3Ed__22_MoveNext_m043DA96FFBC501A97E77282C6764D2E1B504DB30_AdjustorThunk (void);
+extern void U3CConstructMaterialAsyncU3Ed__22_SetStateMachine_mDF6276457915788E5577D435D52540EF8CD574FE_AdjustorThunk (void);
+extern void U3CCreateMRTKShaderMaterialU3Ed__23_MoveNext_m353D479CDE3D9C14878F57C72A9B0203A4CBA3B9_AdjustorThunk (void);
+extern void U3CCreateMRTKShaderMaterialU3Ed__23_SetStateMachine_mBF9A60059379023D3693DA5FE8BED624A0AA5AF6_AdjustorThunk (void);
+extern void U3CCreateStandardShaderMaterialU3Ed__24_MoveNext_mAD2D55CDAC5D9D2AC3A9CE70E4B487CCC5287382_AdjustorThunk (void);
+extern void U3CCreateStandardShaderMaterialU3Ed__24_SetStateMachine_m1A7B4DAE6680DD3C319D3F767F2F6C0E25CFB02B_AdjustorThunk (void);
+extern void U3CConstructSceneAsyncU3Ed__25_MoveNext_mF18C77D010AB1709FCE9844A9429EA26FCD205A4_AdjustorThunk (void);
+extern void U3CConstructSceneAsyncU3Ed__25_SetStateMachine_mB9DAA61932DC20D771087C2EEA936839E624B2D3_AdjustorThunk (void);
+extern void U3CConstructNodeAsyncU3Ed__26_MoveNext_mDCE6D229A429057E50C77B947D2DC8267118188E_AdjustorThunk (void);
+extern void U3CConstructNodeAsyncU3Ed__26_SetStateMachine_mE275469EB46C60307E6D89FAD45BD1B41513F1AA_AdjustorThunk (void);
+extern void U3CConstructMeshAsyncU3Ed__27_MoveNext_m8A2B4C01D07F7E579EDC53C6ACEEA324D773BDB1_AdjustorThunk (void);
+extern void U3CConstructMeshAsyncU3Ed__27_SetStateMachine_m8F00B1043961F8E5D927544873D2A40569B3657C_AdjustorThunk (void);
+extern void U3CConstructMeshPrimitiveAsyncU3Ed__28_MoveNext_mBC2161F47DF60F99655D4CD5EBCCC7C70EBBCAE7_AdjustorThunk (void);
+extern void U3CConstructMeshPrimitiveAsyncU3Ed__28_SetStateMachine_m8D648FCB94C1E12CAF1914C058B9ECAB2A85E6DF_AdjustorThunk (void);
+static Il2CppTokenAdjustorThunkPair s_adjustorThunks[18] = 
+{
+	{ 0x0600000E, U3CConstructAsyncU3Ed__19_MoveNext_m844DBEA07B9E48B9D78FAE0CE11DAAD22AA3E7C7_AdjustorThunk },
+	{ 0x0600000F, U3CConstructAsyncU3Ed__19_SetStateMachine_m43CA3DC120DA3C8A7DDD8DB7E1A684FE5954F52D_AdjustorThunk },
+	{ 0x06000010, U3CConstructTextureAsyncU3Ed__21_MoveNext_m0B6F94D3124B410E1E61D94DEC7C851956FDBA89_AdjustorThunk },
+	{ 0x06000011, U3CConstructTextureAsyncU3Ed__21_SetStateMachine_m8AECFC95C348EB1C2734F564F56D14BFCD59F669_AdjustorThunk },
+	{ 0x06000012, U3CConstructMaterialAsyncU3Ed__22_MoveNext_m043DA96FFBC501A97E77282C6764D2E1B504DB30_AdjustorThunk },
+	{ 0x06000013, U3CConstructMaterialAsyncU3Ed__22_SetStateMachine_mDF6276457915788E5577D435D52540EF8CD574FE_AdjustorThunk },
+	{ 0x06000014, U3CCreateMRTKShaderMaterialU3Ed__23_MoveNext_m353D479CDE3D9C14878F57C72A9B0203A4CBA3B9_AdjustorThunk },
+	{ 0x06000015, U3CCreateMRTKShaderMaterialU3Ed__23_SetStateMachine_mBF9A60059379023D3693DA5FE8BED624A0AA5AF6_AdjustorThunk },
+	{ 0x06000016, U3CCreateStandardShaderMaterialU3Ed__24_MoveNext_mAD2D55CDAC5D9D2AC3A9CE70E4B487CCC5287382_AdjustorThunk },
+	{ 0x06000017, U3CCreateStandardShaderMaterialU3Ed__24_SetStateMachine_m1A7B4DAE6680DD3C319D3F767F2F6C0E25CFB02B_AdjustorThunk },
+	{ 0x06000018, U3CConstructSceneAsyncU3Ed__25_MoveNext_mF18C77D010AB1709FCE9844A9429EA26FCD205A4_AdjustorThunk },
+	{ 0x06000019, U3CConstructSceneAsyncU3Ed__25_SetStateMachine_mB9DAA61932DC20D771087C2EEA936839E624B2D3_AdjustorThunk },
+	{ 0x0600001A, U3CConstructNodeAsyncU3Ed__26_MoveNext_mDCE6D229A429057E50C77B947D2DC8267118188E_AdjustorThunk },
+	{ 0x0600001B, U3CConstructNodeAsyncU3Ed__26_SetStateMachine_mE275469EB46C60307E6D89FAD45BD1B41513F1AA_AdjustorThunk },
+	{ 0x0600001C, U3CConstructMeshAsyncU3Ed__27_MoveNext_m8A2B4C01D07F7E579EDC53C6ACEEA324D773BDB1_AdjustorThunk },
+	{ 0x0600001D, U3CConstructMeshAsyncU3Ed__27_SetStateMachine_m8F00B1043961F8E5D927544873D2A40569B3657C_AdjustorThunk },
+	{ 0x0600001E, U3CConstructMeshPrimitiveAsyncU3Ed__28_MoveNext_mBC2161F47DF60F99655D4CD5EBCCC7C70EBBCAE7_AdjustorThunk },
+	{ 0x0600001F, U3CConstructMeshPrimitiveAsyncU3Ed__28_SetStateMachine_m8D648FCB94C1E12CAF1914C058B9ECAB2A85E6DF_AdjustorThunk },
+};
+static const int32_t s_InvokerIndices[120] = 
+{
+	0,
+	143,
+	1,
+	548,
+	548,
+	548,
+	2,
+	2363,
+	548,
+	1,
+	548,
+	168,
+	3,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	2364,
+	2115,
+	2365,
+	2366,
+	2367,
+	2368,
+	167,
+	167,
+	167,
+	167,
+	0,
+	895,
+	578,
+	578,
+	3,
+	0,
+	0,
+	0,
+	1,
+	0,
+	0,
+	3,
+	23,
+	23,
+	10,
+	32,
+	14,
+	26,
+	23,
+	23,
+	23,
+	23,
+	14,
+	26,
+	23,
+	10,
+	32,
+	14,
+	26,
+	23,
+	23,
+	23,
+	23,
+	14,
+	26,
+	23,
+	14,
+	26,
+	23,
+	14,
+	26,
+	23,
+	10,
+	32,
+	14,
+	26,
+	26,
+	23,
+	23,
+	23,
+	26,
+	501,
+	10,
+	10,
+	10,
+	10,
+	10,
+	10,
+	10,
+	10,
+	10,
+	10,
+	1363,
+	1364,
+	23,
+	23,
+	14,
+	14,
+	26,
+	89,
+	34,
+	23,
+	23,
+	23,
+	23,
+	23,
+	26,
+	23,
+	23,
+};
+extern const Il2CppCodeGenModule g_Microsoft_MixedReality_Toolkit_GltfCodeGenModule;
+const Il2CppCodeGenModule g_Microsoft_MixedReality_Toolkit_GltfCodeGenModule = 
+{
+	"Microsoft.MixedReality.Toolkit.Gltf.dll",
+	120,
+	s_methodPointers,
+	18,
+	s_adjustorThunks,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+};

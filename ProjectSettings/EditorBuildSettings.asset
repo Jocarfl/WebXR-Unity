@@ -9,5 +9,7 @@ EditorBuildSettings:
     path: Assets/WebXR-Pruebas/Scenes/MenuAR-MRTK.unity
     guid: 97badc5113d4a0147a84eec9d43129ae
   m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 405e01039ea7f2b4195e28bc23b9ec32,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e3602355984e7c4489db2150bd122496,
       type: 2}
