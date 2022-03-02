@@ -7,15 +7,24 @@ public class InicializarObjeto : MonoBehaviour
     public GameObject menuPrueba;
 
     private GameObject menu;
-
+    private int cont=0;
     public void OnButtonPressed()
     {
-        menu = Instantiate(menuPrueba,menuPrueba.transform);
+        cont++;
+        if(cont<=1)
+        {
+            menu = Instantiate(menuPrueba,menuPrueba.transform);
+        }
+        else
+        {
+            Destroy(menu);
+            cont = 0;
+        }
+    
         
     }
     public void OnButtonDeselect()
     {
-        Destroy(menu);
         
     }
 
